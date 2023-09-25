@@ -1,7 +1,7 @@
 {
   "name": "my_first_react_app",
   "version": "0.1.0",
-  "homepage": "https://gurmeetsingh91.github.io/repomy_first_react_appname",
+  "homepage": "https://gurmeetsingh91.github.io/my_first_react_app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
