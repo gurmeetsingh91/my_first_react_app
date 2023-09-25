@@ -16,7 +16,7 @@ class ErrorBoundry extends Component {
 
     }
 
-    rendor(){
+    render(){
 
         if(this.state.hasError){
             return <h1>ooops. that is not good</h1>
